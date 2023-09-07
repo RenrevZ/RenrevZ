@@ -7,7 +7,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Experience:</h3>
 <p align="left">
 <kbd> <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'/></kbd>
 <kbd> <img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D'/></kbd>
